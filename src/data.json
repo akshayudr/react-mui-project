@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Bangalore",
+    "tours": [
+      {
+        "id": 1,
+        "name": "BANGALORE PALACE",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://www.transindiatravels.com/wp-content/uploads/bangalore-palace.jpg"
+      },
+      {
+        "id": 2,
+        "name": "LALBAGH",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://pandareviewz.com/wp-content/uploads/2017/09/4142-1024x643.jpg"
+      },
+      {
+        "id": 3,
+        "name": "ISKCON Temple",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://pandareviewz.com/wp-content/uploads/2017/09/iskcon-bangalore.jpg"
+      },
+      {
+        "id": 4,
+        "name": "NIGHTLIFE IN BANGALORE",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://pandareviewz.com/wp-content/uploads/2017/09/1c192423decbe36674710f4c9b4401d2-1024x576.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kerala",
+    "tours": [
+      {
+        "id": 4,
+        "name": "WAYANAD",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://www.ekeralatourism.net/wp-content/uploads/2018/03/Wayanad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "COCHIN",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://www.ekeralatourism.net/wp-content/uploads/2018/03/Cochin.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Munnar",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://www.ekeralatourism.net/wp-content/uploads/2015/12/munnar-1.png"
+      },
+      {
+        "id": 7,
+        "name": "KOVALAM",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://www.ekeralatourism.net/wp-content/uploads/2017/12/Kovalam.jpg"
+      }
+    ]
+  }
+]
